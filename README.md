@@ -10,6 +10,8 @@ Holas a todos y bienvenidos sean al curso de Git y GitHub. Saber git es vital pa
 
 ### Evaluación 🤖✍🏻
 
+cano estuvo aqui
+
 | Criterio | Porcentaje|
 |:--------:|:---------:|
 | Proyecto |    60%    |
